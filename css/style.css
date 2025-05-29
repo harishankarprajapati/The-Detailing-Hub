@@ -274,6 +274,9 @@ a.jx-knightlab
         position: relative;
     z-index: 9999;
 }
+.secvider{
+   width: 100%;
+}
 .logoslider button.owl-next {
     text-align: end;
     float: right;

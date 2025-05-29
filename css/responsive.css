@@ -14,7 +14,15 @@
 
 
 @media only screen and (max-width:1024px) {
-  
+  button.navbar-toggler {
+    border: 1px solid #fff;
+}
+.offcanvas-header {
+    background: #000;
+}
+div#navbarOffcanvas{
+  background-color: #012120;
+}
 }
 
 @media only screen and (max-width:999px) {

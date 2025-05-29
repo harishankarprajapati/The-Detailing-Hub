@@ -28,9 +28,10 @@
     flex-direction: column;
 }
 .secuvbg {
-    display: flex;
-    padding-top: 40px;
-    flex-wrap: wrap;
+           display: flex;
+        padding-top: 40px;
+        flex-wrap: wrap;
+        justify-content: space-between;
 }
 .wrapper {
     width: 399px;
@@ -74,7 +75,59 @@ img.img-fluid.seclogow {
     font-family: 'Anek Bangla';
     font-size: 25px;
 }
-
+button.navbar-toggler {
+    border: 1px solid #fff;
+    margin-top: 11px;
+}
+.offcanvas-header {
+    background: #000;
+}
+div#navbarOffcanvas{
+  background-color: #012120;
+}
+.navbar-nav {
+    margin: 0px;
+}
+.offcanvas{
+    --bs-offcanvas-width: 285px !important;
+ }
+ .headermenusec {
+    font-size: 16px;
+    padding-right: 0px !important;
+}
+br {
+    display: none;
+}
+.sectitserv h3 {
+    font-size: 25px;
+}
+.secnutit {
+    padding-bottom: 20px;
+}
+.sectec2head {
+    font-size: 17px;
+}
+.secnutit h4 {
+    font-size: 33px;
+}
+#accordionExample {
+    width: 100%;
+}
+.secdis{
+    display: flex;
+}
+.secmardbag{
+    width: 50%;
+}
+.secnov{
+    display: none;
+}
+.seclqldd{
+    text-align: end !important;
+}
+.secins{
+    margin-bottom: 20px;
+}
 }
 
 @media only screen and (max-width:430px) {

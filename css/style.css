@@ -271,6 +271,8 @@ a.jx-knightlab
 .logoslider .owl-nav {
     color: #fff;
     font-size: 35px;
+        position: relative;
+    z-index: 9999;
 }
 .logoslider button.owl-next {
     text-align: end;

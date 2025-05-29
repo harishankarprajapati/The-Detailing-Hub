@@ -5,7 +5,9 @@
 .navbar {
    margin: 0;
 }
-
+.secmainlogo{
+  display: none;
+}
 .headermenusec {
    font-family: 'Anek Bangla';
    font-size: 19px;

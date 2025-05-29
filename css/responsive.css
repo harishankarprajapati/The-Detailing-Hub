@@ -49,6 +49,32 @@
 .juxtapose.juxtapose-0 {
     margin-left: 0px;
 }
+.secherologobg {
+    display: none;
+}
+.secmainlogo{
+  display: block;
+  width: 80%;   
+  padding: 0;
+}
+.haderherobg {
+    padding: 0px;
+}
+img.img-fluid.seclogow {
+    width: 50%;
+}
+.container-fluid.p-0.secherbg {
+    margin-top: -2px;
+    margin-bottom: -2px;
+}
+.secmustbg {
+    padding: 0px 10px 40px 10px;
+}
+.secmustext {
+    font-family: 'Anek Bangla';
+    font-size: 25px;
+}
+
 }
 
 @media only screen and (max-width:430px) {

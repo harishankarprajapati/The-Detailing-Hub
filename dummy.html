@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Before After Car Slider</title>
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+  <style>
+    body {
+      background: #002c2c;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+    .juxtapose {
+      max-width: 800px;
+      width: 100%;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="juxtapose" data-startingposition="50%" data-showlabels="true" data-label="Before" data-label2="After">
+  <img src="before-img.png" alt="Before Car Wash" />
+  <img src="after-img.png" alt="After Car Wash" />
+</div>
+
+<script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
+</body>
+</html>

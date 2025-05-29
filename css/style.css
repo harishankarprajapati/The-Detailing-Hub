@@ -1,0 +1,423 @@
+.haderherobg {
+   background-color: #012120;
+}
+
+.navbar {
+   margin: 0;
+}
+
+.headermenusec {
+   font-family: 'Anek Bangla';
+   font-size: 19px;
+   font-weight: 500;
+   color: #fff;
+   text-transform: uppercase;
+   padding-right: 50px !important;
+}
+
+.headermenusec:hover {
+   text-decoration: none;
+   color: #E51A2C;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+   color: #E51A2C !important;
+   border: 0px !important;
+   outline: 0px !important;
+   text-decoration: none !important;
+}
+
+.solhadicon {
+   padding-top: 10px;
+}
+
+.solhadicon i {
+   background-color: #E51A2C;
+   margin-right: 20px !important;
+   padding: 10px 12px;
+   border-radius: 50px;
+   color: #fff;
+}
+
+.solhadicon i:hover {
+   color: #E51A2C;
+   background-color: #fff;
+}
+
+.socallinksheader {
+   display: flex;
+}
+
+.secherologobg {
+   margin-top: -350px;
+   text-align: center;
+   background-color: #012120;
+}
+
+.secherologobg img {
+   width: 30% !important;
+}
+
+.secherologobg p {
+   font-family: 'Anek Bangla';
+   font-size: 20px;
+   font-weight: 600;
+   color: #fff;
+   text-transform: uppercase;
+   padding-top: 20px;
+}
+
+.secmustbg {
+   background-color: #012120;
+   padding: 60px 10px;
+}
+
+.secmustext {
+   font-family: 'Anek Bangla';
+   font-size: 46px;
+   font-weight: 700;
+   color: #fff;
+   text-align: center;
+}
+
+.secmustext span {
+   color: #E51A2C;
+}
+
+.sectitserv {
+   background-color: #fff;
+   padding: 20px;
+   margin-bottom: 40px;
+}
+
+.sectitserv h3 {
+   margin: 0;
+   font-family: 'Anek Bangla';
+   font-size: 30px;
+   font-weight: 700;
+   color: #1E293B;
+}
+
+.secserbtn {
+   padding-top: 20px;
+   padding-bottom: 10px;
+}
+
+.secserbtn a {
+   font-family: 'Roboto';
+   font-size: 14px;
+   padding: 10px 20px;
+   color: #fff;
+   background-color: #E51A2C;
+   border: 1px solid #E51A2C;
+   border-radius: 5px;
+}
+
+.secserbtn a:hover {
+   background-color: #fff;
+   color: #E51A2C;
+   border: 1px solid #E51A2C;
+   text-decoration: none;
+}
+
+.sectec2head {
+   font-family: 'Anek Bangla';
+   font-size: 20px;
+   color: #fff;
+   text-align: center;
+}
+
+.secnumerbg {
+   display: flex;
+}
+
+.secnutit {
+   display: flex;
+   align-items: center;
+}
+
+.secnutit h4 {
+   font-family: 'Anek Bangla';
+   font-size: 40px;
+   color: #E51A2C;
+   font-weight: 600;
+   margin: 0;
+}
+
+.secnutit p {
+   font-family: 'Anek Bangla';
+   font-size: 18px;
+   color: #fff;
+   margin: 0;
+   padding-left: 10px;
+   line-height: 18px;
+}
+
+.sechappbg {
+   padding: 50px 10px;
+}
+
+.sechapptext {
+   font-family: 'Anek Bangla';
+   font-size: 46px;
+   font-weight: 700;
+   color: #000;
+   text-align: center;
+}
+
+.sechapptext span {
+   color: #E51A2C;
+}
+
+.sechappybggimg {
+   text-align: center;
+}
+
+.sechappybggimg img {
+   padding: 20px 0px;
+}
+
+.sechappybggimg p {
+   font-family: 'Anek Bangla';
+   font-size: 16px;
+   color: #000;
+}
+
+#accordionExample {
+   width: 60%;
+   margin: auto;
+}
+
+h2#headingOne {
+   margin: 0px;
+}
+
+.sectbhea {
+   font-family: 'Anek Bangla';
+   font-size: 16px;
+   color: #012120;
+   font-weight: 600;
+}
+
+.accordion-body p {
+   font-family: 'Anek Bangla';
+   font-size: 16px;
+   color: #012120;
+}
+
+.accordion-body {
+   background-color: #D8D8D8;
+}
+
+.accordion-button:not(.collapsed) {
+   background-color: #fff;
+}
+
+.accordion-header {
+   margin-top: 10px;
+}
+
+/* befor/after */
+#page {
+   padding-top: 50px;
+}
+
+/* Our wrapper */
+.wrapper {
+   width: 685px;
+   height: 600px;
+   position: relative;
+   overflow: hidden;
+   margin-left: 224px;
+
+}
+
+/* Our image information */
+.before,
+.after {
+   width: 100%;
+   height: 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   position: absolute;
+   top: 0;
+   left: 0;
+   pointer-events: none;
+   overflow: hidden;
+}
+
+.content-image {
+   height: 100%;
+}
+
+.after {
+   width: 350px;
+}
+
+.scroller {
+   width: 50px;
+   height: 50px;
+   position: absolute;
+   left: 100px;
+   top: 50%;
+   transform: translateY(-50%);
+   border-radius: 50%;
+   background-color: transparent;
+   opacity: 0.9;
+   pointer-events: auto;
+   cursor: pointer;
+}
+
+.scroller:hover {
+   opacity: 1;
+}
+
+.scrolling {
+   pointer-events: none;
+   opacity: 1;
+   /* z-index: 1; */
+}
+
+.scroller__thumb {
+   width: 100%;
+   height: 100%;
+   padding: 5px;
+   background-color: #fff;
+   border-radius: 50px;
+   opacity: 1;
+}
+
+.scroller:before,
+.scroller:after {
+   content: " ";
+   display: block;
+   width: 7px;
+   height: 9999px;
+   position: absolute;
+   left: 50%;
+   margin-left: -3.5px;
+   z-index: 30;
+   transition: 0.1s;
+}
+
+.scroller:before {
+   top: 100%;
+}
+
+.scroller:after {
+   bottom: 100%;
+}
+
+/* If you want to cahnge the colors, make sure you change the fill in the svgs to match */
+.scroller {
+   border: 5px solid #fff;
+}
+
+.scroller:before,
+.scroller:after {
+   background: #fff;
+}
+
+.secbatkit span {
+   font-family: 'Roboto';
+   font-size: 18px;
+   color: #fff;
+   background-color: #344d4d;
+   padding: 10px 20px;
+   border-radius: 5px;
+}
+.secmardbag {
+   margin-top: -550px;
+}
+.secuvbg {
+   display: flex;
+   padding-top: 40px;
+}
+.secuvimg {
+   text-align: center;
+}
+.secuvimg p {
+   font-family: 'Anek Bangla';
+   font-size: 16px;
+   color: #fff;
+   font-weight: 600;
+   padding-top: 20px;
+   text-transform: uppercase;
+}
+.logoslider{
+   padding-top: 30px;
+}
+.sliimg{
+   width: 60% !important;
+   margin: auto;
+}
+.logoslider .owl-nav {
+    color: #fff;
+    font-size: 35px;
+}
+.logoslider button.owl-next {
+    text-align: end;
+    float: right;
+    margin-top: -100px;
+}
+.logoslider button.owl-prev{
+  margin-top: -100px !important;
+  float: left;
+}
+.logoslider .owl-dots{
+   display: none;
+}
+.secinsabg{
+text-align: center;
+padding: 40px 0px 20px 0px;
+}
+.secinsabg a{
+font-family: 'Roboto';
+font-size: 16px;
+color: #fff;
+font-weight: 500;
+padding: 15px 35px;
+border-radius: 5px;
+background-color: #E51A2C;
+}
+.secinsabg a:hover{
+   background-color: #fff;
+   color: #E51A2C;
+   text-decoration: none  ;
+}
+.secfooterbg{
+   padding: 30px 10px;
+}
+.secfootehead{
+    font-family: 'Anek Bangla';
+   font-size: 30px;
+   color: #000;
+   font-weight: 600;
+}
+.secatti{
+    font-family: 'Anek Bangla';
+   font-size: 14px;
+   color: #000;
+}
+.secatti a{
+    font-family: 'Anek Bangla';
+   font-size: 14px;
+   color: #000;
+}
+.secatti a:hover{
+   text-decoration: none;
+   color: #E51A2C;
+}
+.secfooterb2{
+   background-color: #E51A2C;
+}
+.aectem2{
+     font-family: 'Anek Bangla';
+   font-size: 16px;
+   color: #fff;
+   text-align: center;
+   margin: 0;
+   padding: 15px;
+}

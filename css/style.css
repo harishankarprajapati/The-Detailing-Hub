@@ -351,14 +351,14 @@ background-color: #E51A2C;
     padding-bottom: 50px;
 }
 .sec-cont-hh {
-    font-family: 'PT Sans Caption';
+    font-family: 'Anek Bangla';
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
     color: #fff;
 }
 .sec-cont-pp {
-    font-family: 'PT Sans Caption';
+    font-family: 'Anek Bangla';
     font-weight: 400;
     font-size: 18px;
     color: #fff;
@@ -369,7 +369,7 @@ background-color: #E51A2C;
 }
 .sec-menu-btn2 {
     background: #E51A2C;
-    font-family: 'PT Sans Caption';
+    font-family: 'Anek Bangla';
     font-style: normal;
     text-transform: uppercase;
     font-weight: 600;
@@ -388,14 +388,14 @@ background-color: #E51A2C;
     padding: 20px;
 }
 .sec-cont-hh2 {
-    font-family: 'PT Sans Caption';
+    font-family: 'Anek Bangla';
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
     color: #000;
 }
 .seccont-add-h {
-    font-family: 'PT Sans Caption';
+    font-family: 'Anek Bangla';
     font-size: 18px;
     line-height: 150%;
     font-weight: 700;
@@ -405,7 +405,7 @@ background-color: #E51A2C;
     color: #E51A2C;
 }
 .seccont-add-p {
-    font-family: 'PT Sans Caption';
+    font-family: 'Anek Bangla';
     font-weight: 400;
     font-size: 16px;
     color: #5F5F5F;
@@ -423,4 +423,11 @@ background-color: #E51A2C;
 
 .form-group label {
     color: #fff;
+}
+.secabotex{
+ font-family: 'Anek Bangla';
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
 }

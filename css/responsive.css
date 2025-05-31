@@ -59,7 +59,16 @@ div#navbarOffcanvas{
     margin-left: 0px;
 }
 .secherologobg {
-    display: none;
+     margin-top: -100px;
+     margin-bottom: -1px;
+}
+.secherologobg img {
+    width: 60% !important;
+}
+.container-fluid.secwhitpad.align-items-start {
+    display: flex
+;
+    justify-content: flex-end;
 }
 .secmainlogo{
   display: block;
@@ -85,7 +94,6 @@ img.img-fluid.seclogow {
 }
 button.navbar-toggler {
     border: 1px solid #fff;
-    margin-top: 11px;
 }
 .offcanvas-header {
     background: #000;
